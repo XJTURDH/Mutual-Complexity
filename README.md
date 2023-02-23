@@ -1,5 +1,5 @@
 ## Introduction
-This repository is the implementation of Mutual Complexity. 
+This repository is the implementation of Mutual Complexity for PVO methods. 
 
 ## Requirements
 All codes are implemented by Matlab R2021a.
