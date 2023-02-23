@@ -21,7 +21,7 @@ Please cite our [paper](https://www.sciencedirect.com/science/article/pii/S01651
 }
 ```
 
-Our other work on PVO complexity: *Adaptive Complexity* [code](https://github.com/XJTURDH/Adaptive-Complexity):
+Our other work on PVO complexity: *Adaptive Complexity* [(code)](https://github.com/XJTURDH/Adaptive-Complexity):
 ```
 @article{pan2020adaptive,
   title={Adaptive complexity for pixel-value-ordering based reversible data hiding},
